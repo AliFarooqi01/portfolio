@@ -399,10 +399,6 @@ h3.my-profession {
 }
 .about .about-content .personal-info .info-item:nth-child(3),
 .about .about-content .personal-info .info-item:nth-child(4) {
-<<<<<<< HEAD
-=======
-{
->>>>>>> 401647a911bc991ddb134f18e6d5d4b5c6e5df63
     flex: 0 0 100% !important;
     max-width: 100% !important;
 }
