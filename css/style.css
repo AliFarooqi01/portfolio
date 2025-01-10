@@ -398,7 +398,7 @@ h3.my-profession {
     max-width: 50%;
 }
 .about .about-content .personal-info .info-item:nth-child(3),
-.about .about-content .personal-info .info-item:nth-child(4), {
+.about .about-content .personal-info .info-item:nth-child(4) {
 {
     flex: 0 0 100% !important;
     max-width: 100% !important;
